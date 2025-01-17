@@ -30,7 +30,7 @@
 <h2 id="installation">Installation</h2>
 <p>To install and run this project, follow these steps:</p>
 <ol>
-    <li>Clone the repository: <code>git clone https://github.com/muhammadumermemon/real-time-construction-monitoring.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/muhammadumerbinfarooq/real-time-construction-monitoring.git</code></li>
     <li>Navigate to the project directory: <code>cd real-time-construction-monitoring</code></li>
     <li>Install dependencies: <code>go mod tidy</code></li>
     <li>Run the project: <code>go run main.go</code></li>
